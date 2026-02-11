@@ -1,6 +1,6 @@
 [
     {
-        "image": "url('/assets/image/3/image.jpg')",
+        "image": "url('./assets/image/3/image.jpg')",
         "name": "TitanOS 3",
         "based": "HyperOS 3",
         "device": "Redmi Note 12s",
@@ -8,7 +8,7 @@
         "id": 3
     },
     {
-        "image": "url('/assets/image/2/image.jpg')",
+        "image": "url('./assets/image/2/image.jpg')",
         "name": "TitanOS 2.2",
         "based": "HyperOS 2.2",
         "device": "Redmi Note 11s",
@@ -16,7 +16,7 @@
         "id": 2
     },
     {
-        "image": "url('/assets/image/1/image.jpg')",
+        "image": "url('./assets/image/1/image.jpg')",
         "name": "TitanOS 3.0",
         "based": "HyperOS 3.0",
         "device": "Redmi Note 11, Redmi Note 11 NFC",
@@ -24,3 +24,4 @@
         "id": 1
     }
 ]
+
